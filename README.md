@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá, sou Wayra 🙂
 
-<!--
-**WayraArendartchukCastro/WayraArendartchukCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Com formação anterior em Sonoplastia, encontro-me em transição de carreira para área desenvolvimento de software, pois acredito encontrar nesta profissão, diversas perspectivas e novos aprendizados. Busco dentro deste território, a junção entre a criatividade, cultura, tecnologia e transformação social.
 
-Here are some ideas to get you started:
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WayraArendartchukCastro&show_icons=true&locale=pt-br&layout=compact&theme=highcontrast" alt="WayraArendartchukCastro" width="495"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WayraArendartchukCastro&show_icons=true&locale=pt-br&theme=highcontrast" alt="WayraArendartchukCastro" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WayraArendartchukCastro&theme=highcontrast" alt="WayraArendartchukCastro" /></p>
+<br>
+<div align="center"> Linguagens utilizadas durante o Bootcamp Laboratória BR: </div>
+<br>
+<div align="center">
+  
+  <img align="center"  alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<img align="center"  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center"  alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center"  alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
+     <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center"  alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center"  alt="Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/68789655/173694093-a428e8d9-0727-488a-9491-36fe4f315b04.png">
+    <img align="center" alt="Codepen" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-original-wordmark.svg"> 
+   <img align="center" alt="Visual Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg">   
+  <img align="center"  alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg"> 
+  <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg">
+ </div>   
