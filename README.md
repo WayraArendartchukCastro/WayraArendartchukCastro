@@ -1,6 +1,7 @@
-### Olá, sou Wayra 🙂
+### Olá! Sou Wayra
 
-##### Com formação anterior em Sonoplastia, encontro-me em transição de carreira para área desenvolvimento de software, pois acredito encontrar nesta profissão, diversas perspectivas e novos aprendizados. Busco dentro deste território, a junção entre a criatividade, cultura, tecnologia e transformação social.
+##### Com formação anterior em Sonoplastia, encontro-me em transição de carreira para área desenvolvimento de software.
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WayraArendartchukCastro&show_icons=true&locale=pt-br&layout=compact&theme=highcontrast" alt="WayraArendartchukCastro" width="495"/></p>
 
@@ -26,3 +27,9 @@
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg"> 
   <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg">
  </div>   
+ <br>
+ <div align="center">Contato: </div>
+ <br>
+ <div align="center">
+<a href="https://www.linkedin.com/in/wayra-arendartchuk-castro/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
