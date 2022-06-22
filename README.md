@@ -3,7 +3,7 @@
 ##### Com formação anterior em Sonoplastia, encontro-me em transição de carreira para área desenvolvimento de software.
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WayraArendartchukCastro&show_icons=true&locale=pt-br&layout=compact&theme=highcontrast" alt="WayraArendartchukCastro" width="495"/></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WayraArendartchukCastro&show_icons=true&locale=pt-br&theme=highcontrast" alt="WayraArendartchukCastro" /></p>
 
