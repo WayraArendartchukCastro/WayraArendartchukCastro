@@ -1,6 +1,5 @@
 ### Olá! Sou Wayra
 
-##### Com formação anterior em Sonoplastia, encontro-me em transição de carreira para área desenvolvimento de software.
 
 
 
